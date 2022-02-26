@@ -1,0 +1,45 @@
+[
+    {
+        "id":0,
+        "song":"Alfa",
+        "picture":"https://images.genius.com/d69f9c5404fc8c9df0273df80bc508f0.1000x1000x1.jpg",
+        "Artist":"Massaka"
+    },
+    {
+        "id":1,
+        "song":"Akrep",
+        "picture":"https://i.ytimg.com/vi/PM2de3djzOg/maxresdefault.jpg",
+        "Artist":"Massaka"
+    },
+    {
+        "id":2,
+        "song":"İntihar",
+        "picture":"https://i.ytimg.com/vi/nQXriyrhfAA/maxresdefault.jpg",
+        "Artist":"Massaka"
+    },
+    {
+        "id":3,
+        "song":"Saray-(Prod By Deadaye)",
+        "picture":"https://images.genius.com/2bf69139e96d4729bb317ae583adeaa6.1000x1000x1.jpg",
+        "Artist":"Massaka"
+    },
+    {
+        "id":4,
+        "song":"24 Ayar",
+        "picture":"https://images.genius.com/f6a7c701af7be32bf6efd3b5787a45e7.640x640x1.jpg",
+        "Artist":"Massaka"
+    },
+    {
+        "id":5,
+        "song":"Hadi Gel",
+        "picture":"https://i.ytimg.com/vi/Q4YXINlxSoA/maxresdefault.jpg",
+        "Artist":"Massaka,Cashflow"
+    },
+    {
+        "id":6,
+        "song":"Dolunay",
+        "picture":"https://i.ytimg.com/vi/PM2de3djzOg/maxresdefault.jpg",
+        "Artist":"Massaka"
+    }
+
+]

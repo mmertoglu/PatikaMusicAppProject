@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "song":"Juicy",
+        "picture":"https://www.linkpicture.com/q/LPic6214fa87d9cd51004682424.jpg",
+        "Artist":"Notorius B.I.G"
+    },
+    {
+        "id":1,
+        "song":"Hypnotize",
+        "picture":"https://upload.wikimedia.org/wikipedia/en/1/1e/BiggieHypnotize.jpg",
+        "Artist":"Notorius B.I.G"
+    },
+    {
+        "id":2,
+        "song":"Big Poppa",
+        "picture":"https://img.discogs.com/_ihuxeZoMV-Zt1Jm1R0gR7GCiuA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9256220-1477475800-8455.jpeg.jpg",
+        "Artist":"Notorius B.I.G"
+    },
+    {
+        "id":3,
+        "song":"Mo Money Mo Problems",
+        "picture":"https://www.linkpicture.com/q/LPic6214fa87d9cd51004682424.jpg",
+        "Artist":"Notorius B.I.G"
+    },
+    {
+        "id":4,
+        "song":"Dead Wrong",
+        "picture":"https://i.ytimg.com/vi/oiPV4yXgL08/maxresdefault.jpg",
+        "Artist":"Notorius B.I.G"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id" : 0,
+        "Artist" : "Tupac",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210b6e169953774980467.jpg",
+        "color":"#3F0648",
+        "myalbum":"All Eyez On Me                    ",
+        "SoldOut": true,
+        "mycomponent":"Tupac"
+    },
+    {
+        "id":1,
+        "Artist":"Massaka",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210b72bb4ac8832963386.jpg",
+        "color":"#0E8218",
+        "myalbum":"Aynalar",
+        "SoldOut": false,
+        "mycomponent":"Massaka"
+    },
+    {
+        "id" : 2,
+        "Artist" : "Killa Hakan",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210b879e47671251761186.jpg",
+        "color":"#ff9500",
+        "myalbum":"Fight Clup",
+        "SoldOut": false,
+        "mycomponent":"Killa"
+    },
+    {
+        "id" : 3,
+        "Artist" : "Notorius BIG",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210b8aee65c6385474449.jpg",
+        "color":"#642830",
+        "myalbum":"Juicy                                     ",
+        "SoldOut": true,
+        "mycomponent":"Biggie"
+    },
+    {
+        "id" : 4,
+        "Artist" : "Eminem",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210b8dfccc6a499877696.jpg",
+        "color":"#106E86",
+        "myalbum":"Recovery                              ",
+        "SoldOut": true,
+        "mycomponent":"Eminem"
+    },
+    {
+        "id" : 5,
+        "Artist" : "Dr.Dre",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210b9080123e1325371625.jpg",
+        "color":"#75500B",
+        "myalbum":"Still D.R.E.",
+        "SoldOut": false,
+        "mycomponent":"Dre"
+    },
+    {
+        "id" : 6,
+        "Artist" : "Snopp Dog",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210bba275159491713821.jpg",
+        "color":"#A71414",
+        "myalbum":"Nuthin' But A G Thang        ",
+        "SoldOut": true,
+        "mycomponent":"Snopp"
+    },
+    {
+        "id" : 7,
+        "Artist" : "Ice Cube",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210bc02bb151894801084.jpg",
+        "color":"#301073",
+        "myalbum":"It Was A Good Day",
+        "SoldOut": false,
+        "mycomponent":"Ice"
+    },
+    {
+        "id" : 8,
+        "Artist" : "50 Cent",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210bc4bdad901739351143.jpg",
+        "color":"#034f84",
+        "myalbum":"P.I.M.P",
+        "SoldOut": false,
+        "mycomponent":"Cent"
+    },
+    {
+        "id" : 9,
+        "Artist" : "Kurupt",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210bc7f773f844462692.jpg",
+        "color":"#ff9500",
+        "myalbum":"C-Walk                                  ",
+        "SoldOut": true,
+        "mycomponent":"Kurupt"
+    },
+    {
+        "id" : 10,
+        "Artist" : "Eazy-E",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210bca4008df1184705605.jpg",
+        "color":"#0E8218",
+        "myalbum":"Real Muthafuckin' G's",
+        "SoldOut": false,
+        "mycomponent":"Eazy"
+    },
+    {
+        "id" : 11,
+        "Artist" : "Ezhel",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210dc45d6be01512460892.jpg",
+        "color":"#A71414",
+        "myalbum":"Geceler                                 ",
+        "SoldOut": true,
+        "mycomponent":"Ezhel"
+    },
+    {
+        "id" : 12,
+        "Artist" : "K'st",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210dc7555c091852070141.jpg",
+        "color":"#106E86",
+        "myalbum":"Sinir Sistemi",
+        "SoldOut": false,
+        "mycomponent":"Kst"
+    },
+    {
+        "id" : 13,
+        "Artist" : "Kendrick Lamar",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210dc96403f11313693363.jpg",
+        "color":"#75500B",
+        "myalbum":"DAMN.",
+        "SoldOut": false,
+        "mycomponent":"Kendrick"
+    },
+    {
+        "id" : 14,
+        "Artist" : "Dub-C",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210dcbc167ca1528156112.jpg",
+        "color":"#3F0648",
+        "myalbum":"West-Side                             ",
+        "SoldOut": true,
+        "mycomponent":"Dubc"
+    },
+    {
+        "id" : 15,
+        "Artist" : "Sagopa Kajmer",
+        "ImgUrl":"https://www.linkpicture.com/q/LPic6210dcecc3dc51625820727.jpg",
+        "color":"#0E8218",
+        "myalbum":"Kötü İnsanları Tanıma Senesi",
+        "SoldOut": false,
+        "mycomponent":"Sagopa"
+    }
+]

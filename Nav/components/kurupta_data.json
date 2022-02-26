@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "song":"C-Walk",
+        "picture":"https://images.genius.com/5e581d680d32af2f362cf75a5451a837.732x731x1.jpg",
+        "Artist":"Kurupt"
+    },
+    {
+        "id":1,
+        "song":"Who Ride With Us",
+        "picture":"https://www.linkpicture.com/q/LPic6214d36142b9c163113367.png",
+        "Artist":"Kurupt"
+    },
+    {
+        "id":2,
+        "song":"We Can Freak It",
+        "picture":"https://images.genius.com/5e581d680d32af2f362cf75a5451a837.732x731x1.jpg",
+        "Artist":"Kurupt"
+    },
+    {
+        "id":3,
+        "song":"The Hardest Mutha Fukas",
+        "picture":"https://cdns-images.dzcdn.net/images/cover/6857630fbebb7f7aaeba230873895f1b/350x350.jpg",
+        "Artist":"Kurupt"
+    },
+    {
+        "id":4,
+        "song":"Honestly (feat. Terrace Martin",
+        "picture":"https://i1.sndcdn.com/artworks-000006406471-iw76b6-t500x500.jpg",
+        "Artist":"Kurupt,Ferrace Martin"
+    }
+]
